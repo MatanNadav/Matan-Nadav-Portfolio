@@ -21,7 +21,7 @@ function renderProj(projects) {
                     <i class="fa fa-plus fa-3x"></i>
                 </div>
             </div>
-            <img class="img-fluid" src="${proj.imgThumb}" alt="">
+            <img class="img-fluid" src="${proj.imgThumb}" alt="thumbnail error">
          </a>
             <div class="portfolio-caption">
                 <h4>${proj.name}</h4>
