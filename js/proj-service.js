@@ -18,6 +18,9 @@ function createProjs() {
         createProj('MemeGen', 'Meme Generator',
             'A Meme Generator using HTML5 Canvas & Vanilla JS',
             'img/myPic/MemeGen - thumb.png','img/myPic/MemeGen.png', 'https://matannadav.github.io/meme-gen/',['Loops', 'Globals']),
+        createProj('HeroWeather', 'Weather and Photos of locations around the world',
+            'Something i wanted to develop for some time. Weather and Photos of places around the world with a flair',
+            'img/myPic/HeroWeather - thumb.jpg','img/myPic/HeroWeather.jpg', 'https://github.com/MatanNadav/HeroWeather',['Vue', 'Node.js']),
 
         createProj('Appsus', 'Email & Notes',
             'Leaning on the familiar gmail, i developed a quirky email & notes app with a lot of features',
