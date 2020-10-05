@@ -1,7 +1,6 @@
 'use strict';
 
 function init() {
-    console.log('Starting up');
     var projects = createProjs();
     renderProj(projects)
     console.log(projects);
